@@ -1,3 +1,5 @@
+![preview-solution](https://github.com/kokenydaniel/results-summary-component/assets/129154129/34200248-b870-415f-9818-4c1a1090563f)
+
 <h1 align="center">Results summary component - Frontend mentor </h1>
 
 ### <h3 align="center"> [Live](https://kokenydaniel.github.io/results-summary-component/) | [Solution](https://www.frontendmentor.io/solutions/results-summary-component-92TI0IdVO2) | [Challenge](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV) </h3>
